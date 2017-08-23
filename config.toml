@@ -14,7 +14,6 @@ cookiedomain = "asdf.df"
 
 
 #COOKING
-[menu]
 [[menu.main]]
 name = "Cooking"
 weight = -10
